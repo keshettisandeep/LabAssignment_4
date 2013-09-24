@@ -1,0 +1,5 @@
+\\kc.umkc.edu\kc-users\home\s\sk5y3\my documents\visual studio 2010\Projects\SOAP_APP_Code\SOAP_APP_Code\bin\SOAP_APP_Code.dll
+\\kc.umkc.edu\kc-users\home\s\sk5y3\my documents\visual studio 2010\Projects\SOAP_APP_Code\SOAP_APP_Code\bin\SOAP_APP_Code.pdb
+\\kc.umkc.edu\kc-users\home\s\sk5y3\my documents\visual studio 2010\Projects\SOAP_APP_Code\SOAP_APP_Code\obj\Debug\ResolveAssemblyReference.cache
+\\kc.umkc.edu\kc-users\home\s\sk5y3\my documents\visual studio 2010\Projects\SOAP_APP_Code\SOAP_APP_Code\obj\Debug\SOAP_APP_Code.dll
+\\kc.umkc.edu\kc-users\home\s\sk5y3\my documents\visual studio 2010\Projects\SOAP_APP_Code\SOAP_APP_Code\obj\Debug\SOAP_APP_Code.pdb
